@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227375372396",
+    "firebase_url": "https://groupexpensetracker-6a2ff.firebaseio.com",
+    "project_id": "groupexpensetracker-6a2ff",
+    "storage_bucket": "groupexpensetracker-6a2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227375372396:android:4a4747f774d561e8",
+        "android_client_info": {
+          "package_name": "com.app.chhatrasal.groupexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227375372396-r7fu8kqv0vkv25ehpnglkooqf7eigkn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chhatrasal.groupexpensetracker",
+            "certificate_hash": "aea97b6f938adaee4a9ae0e943e6e0274bbcbe55"
+          }
+        },
+        {
+          "client_id": "227375372396-v6ba51uppbnb0gphegu657vsiq3ume86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxma-h22bJkNsVCLQ8j-MI3h89A9ALEO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227375372396-v6ba51uppbnb0gphegu657vsiq3ume86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

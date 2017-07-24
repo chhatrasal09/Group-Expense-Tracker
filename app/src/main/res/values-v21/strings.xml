@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_trip">Add Trip</string>
+    <string name="enter_the_destination">Enter the destination</string>
+    <string name="submit">Submit</string>
+    <string name="start_a_trip">Start a Trip</string>
+    <string name="view_trips">View Trips</string>
+    <string name="enter_the_group_size">Enter the group size</string>
+    <string name="add_members">Add Members</string>
+    <string name="home">Home</string>
+    <string name="members">Members</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="modify_expense">Modify Expense</string>
+    <string name="calculate">Calculate</string>
+    <string name="tripdetails">TripDetails</string>
+    <string name="draweropened">Drawer Opened</string>
+    <string name="drawerclosed">Drawer Closed</string>
+    <string name="trip_details">Trip Details</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="finish_trip">Finish Trip</string>
+    <string name="group_size_divided_amount_rs">Group Size : Divided Amount : Rs</string>
+    <string name="expense_details">Expense Details</string>
+    <string name="amount_paid">Amount Paid</string>
+    <string name="expense_types">Expense Types</string>
+    <string name="calculated_amount">Calculated Amount</string>
+    <string name="divided_amount_rs">Divided Amount : Rs</string>
+    <string name="update">Update</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:checked="false"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/members"
+            android:checked="false"
+            android:title="@string/members" />
+        <item
+            android:id="@+id/add_expense"
+            android:checked="false"
+            android:title="@string/add_expense" />
+        <item
+            android:id="@+id/modify_expense"
+            android:checked="false"
+            android:title="@string/modify_expense" />
+        <item
+            android:id="@+id/calculate"
+            android:checked="false"
+            android:title="@string/calculate" />
+        <item
+            android:id="@+id/trip_details"
+            android:checked="false"
+            android:title="@string/tripdetails" />
+    </group>
+</menu>
