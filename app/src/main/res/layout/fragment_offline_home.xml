@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    tools:context="com.app.chhatrasal.groupexpensetracker.FragmentOfflineHome">
+
+    <com.github.mikephil.charting.charts.PieChart xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pie_chart"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:alpha="0.9"
+        android:layout_height="450dp" />
+
+</FrameLayout>
